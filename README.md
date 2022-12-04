@@ -76,7 +76,7 @@ Debido a que el modelo esta sujeto a la variable tiempo, se ha decidido dividir 
 
 Tras evaluar diferentes modelos mediante la métrica de error absoluto relativo ('RAE'), se determina que el mejor modelo corresponde con un random forest de n_estimators = 1500 y un max_features = 5.
 
-![Predicciones](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Predicciones](https://github.com/PabloBarberoDeLaOrden/Solar_Energy_Prediction/blob/main/Solar_energy_prediction/predicciones.png)
 
 El modelo dispone de un error relativo absoluto de 0.32, es decir el modelo mejora en un 68% al modelo trivial, predecir todo con la media del entrenamiento.
 
