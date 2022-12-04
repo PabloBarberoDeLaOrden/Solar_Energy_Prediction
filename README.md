@@ -1,7 +1,7 @@
 # Solar_Energy_Prediction
 Proyecto de Machine Learning cuyo objetivo es predicir la cantidad de energia solar recogida por un panel solar, utilizando tanto técnicas de regresión como series temporales.
 
-![Paneles_Solares](https://github.com/zzuljs/CppLearning/blob/master/CppLearning/raw/master/Itachi.jpg)
+![Paneles_Solares](https://github.com/PabloBarberoDeLaOrden/Solar_Energy_Prediction/blob/main/Solar_energy_prediction/gefs_mesonet_stations.png)
 
 Con el objetivo de simplificar este proyecto se ha decidido predecir exclusivamente en base a un panel, utilizando como datos bien la cantidad de energia producida dias anetriores, o la información meteorológica que se disponía del area de localización del panel.
 
