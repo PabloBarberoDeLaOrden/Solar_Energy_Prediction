@@ -56,19 +56,12 @@ En el codigo se utilizan las siguientes librerías:
 
 - Pandas
 - Numpy
-- pip == 21.3.1
-- NetCDF
-- importlib-metadata == 4.13.0
-- xarray
-- os
 - matplotlib
-- datetime
 - sklearn
 - xgboost
-- statsmodels
-- pmdarima
 - pickle
 
+Para más información consultar requirements
 ---
 
 ## Modelo
