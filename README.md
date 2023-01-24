@@ -60,7 +60,8 @@ En el codigo se utilizan las siguientes librerías:
 - sklearn
 - xgboost
 - pickle
-Para más información consultar requirements
+
+  Para más información consultar requirements
 ---
 
 ## Modelo
